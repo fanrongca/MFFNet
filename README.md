@@ -29,7 +29,7 @@
 
 - test_demo is a test program, where test_no_virtual.py is a test program, and plot_acc.py is a program for drawing recognition accuracy;
 
-- weight_and_biase_of_Network is a folder for saving network architecture and weight. Among them, ResNet saves the architecture and weights of the trained Residual network, ResNet_SEnet saves the architecture and weights of the trained ResNet+SEnet, and ResNet_SEnet_FPN_PAN saves the architecture and weights of the trained ResNet+SEnet+FPN+PAN network;
+- weight_and_biase_of_Network is a folder for saving network architecture and weight. Among them, ResNet saves the architecture and weights of the trained Residual network, ResNet_SEnet saves the architecture and weights of the trained ResNet+SEnet(SEUResNet), and ResNet_SEnet_FPN_PAN saves the architecture and weights of the trained ResNet+SEnet+FPN+PAN network(MFFNet) ;
 
 - The network architecture file is named: model_struct_1_R.json, the network weight is named: model_weights_1_R.h5.
 
